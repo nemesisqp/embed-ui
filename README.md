@@ -1,5 +1,6 @@
 # `embed-ui`
-Giao diện nhúng cho project customer-code
+- Giao diện nhúng cho project customer-code
+- Thư viện ui sử dụng gồm [react](https://reactjs.org/) [antd-mobile](https://mobile.ant.design/)
 
 ## Cách build 
 - `npm install` (chỉ làm lần đầu)

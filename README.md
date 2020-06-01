@@ -13,4 +13,4 @@
 ## Phát triển thêm
 - `npm run start`
 - Chỉnh sửa, phát triển thêm file trong folder `src` như 1 project `react` `antd-mobile` bình thường
-- Sau khi hoàn thành thì làm theo bước [build](#cach-build) 
+- Sau khi hoàn thành thì làm theo bước [build](#cách-build) 

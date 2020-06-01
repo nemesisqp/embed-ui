@@ -1,4 +1,7 @@
 # `embed-ui`
+<p align="center">
+  <img src="demo.gif">
+</p>
 - Giao diện nhúng cho project customer-code
 - Thư viện ui sử dụng gồm [react](https://reactjs.org/) [antd-mobile](https://mobile.ant.design/)
 
